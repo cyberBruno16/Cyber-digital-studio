@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cyberbruno16.github.io/Cyber-digital-studio/sitemap.xml
